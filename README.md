@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuGhinTanjid
 - 👀 I’m interested in experiment!!
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently working on Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
